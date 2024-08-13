@@ -10,6 +10,7 @@ export default {
         'gray': '#363636',
         'light-gray': '#595858',
         'gray-b7': '#B7B7B7',
+        'gray-bd': '#BDBDBD',
         'gray-64': '#646464',
         'gray-d9': '#D9D9D9',
         'blue': '#009FF9',
@@ -17,10 +18,10 @@ export default {
         'orange': '#F27400'
       },
       gridTemplateColumns: {
-        'home': '60px minmax(900px, 1fr) 500px'
+        'home': '60px minmax(900px, 1fr) 300px'
       },
       gridTemplateRows: {
-        'home': '50px minmax(0, 1fr) 50px'
+        'home': '50px minmax(0, 1fr) 40px'
       }
     },
   },
