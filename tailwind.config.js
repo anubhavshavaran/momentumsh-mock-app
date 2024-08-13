@@ -15,6 +15,12 @@ export default {
         'blue': '#009FF9',
         'light-orange': '#FFAD62',
         'orange': '#F27400'
+      },
+      gridTemplateColumns: {
+        'home': '60px minmax(900px, 1fr) 500px'
+      },
+      gridTemplateRows: {
+        'home': '50px minmax(0, 1fr) 50px'
       }
     },
   },
