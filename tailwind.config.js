@@ -18,7 +18,7 @@ export default {
         'orange': '#F27400'
       },
       gridTemplateColumns: {
-        'home': '60px minmax(900px, 1fr) 300px'
+        'home': '60px minmax(900px, 1fr) 350px'
       },
       gridTemplateRows: {
         'home': '50px minmax(0, 1fr) 40px'
