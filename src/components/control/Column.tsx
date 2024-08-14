@@ -8,6 +8,6 @@ type ColumnProps = {
 
 export default function Column({ gap, margin, children }: ColumnProps) {
     return (
-        <div className={`mb-${margin} flex flex-col gap-${gap}`}>{children}</div>
+        <div className={`mb-${margin} flex flex-col gap-${gap} mb-5`}>{children}</div>
     );
 }
