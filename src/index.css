@@ -26,4 +26,8 @@
     .selectList {
         @apply w-full text-white bg-transparent border-2 rounded-[4px] border-gray-d9 py-1 px-4 outline-none
     }
+
+    .canvas {
+        @apply row-start-2 row-end-3 col-start-2 col-end-3 bg-blue-gray
+    }
 }

@@ -9,11 +9,13 @@ export default {
       colors: {
         'gray': '#363636',
         'light-gray': '#595858',
+        'dark-gray': '1f2122',
         'gray-b7': '#B7B7B7',
         'gray-bd': '#BDBDBD',
         'gray-64': '#646464',
         'gray-d9': '#D9D9D9',
         'blue': '#009FF9',
+        'blue-gray': '#141a20',
         'light-orange': '#FFAD62',
         'orange': '#F27400'
       },
